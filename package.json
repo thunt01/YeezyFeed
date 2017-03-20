@@ -1,0 +1,20 @@
+{
+  "name": "twitterfeed",
+  "version": "1.0.0",
+  "description": "pulls tweets from twitter",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "thaddeus hunt",
+  "license": "ISC"
+}
